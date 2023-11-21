@@ -65,7 +65,7 @@ nav {
 }
 
 .dropdown button{
-  background-color: #669ccb;
+  background-color: transparent;
   color: white;
   display: inline-block;
   position: relative;
