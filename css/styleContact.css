@@ -71,6 +71,7 @@ nav {
   color: white;
   display: inline-block;
   position: relative;
+  width: auto;
   border: none;
   font-size: medium;
   cursor: pointer;
@@ -93,6 +94,7 @@ min-width: 100px;
 
  .dropdown:hover .content__dropdown{
   display: block;
+  box-shadow: none;
  }
 
 header {
